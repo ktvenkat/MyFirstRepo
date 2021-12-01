@@ -1,5 +1,8 @@
 
 public class MasterClass {
-  system.out.println
+	public static void main(String[] args) {
+		System.out.println(" ");
+	}
+  
 
 }
