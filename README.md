@@ -1,2 +1,2 @@
 # MyFirstRepot
-my nmae venkat 
+my namevenkat 
